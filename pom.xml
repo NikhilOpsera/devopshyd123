@@ -160,7 +160,7 @@
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-surefire-plugin</artifactId>
   <goals>
-    <goal>exploded</goal>
+    <goal>install</goal>
   </goals>
   <configuration>
     <forkCount>3</forkCount>
