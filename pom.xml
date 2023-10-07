@@ -132,6 +132,7 @@
                     </webApp>
                 </configuration>
             </plugin>
+		<argLine>-Xmx1024m -XX:MaxPermSize=256m</argLine>
 		<!-- CODE COVERAGE -->
 		    <plugin>
 		        <groupId>org.jacoco</groupId>
