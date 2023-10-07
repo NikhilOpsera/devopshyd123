@@ -7,7 +7,6 @@
     <version>v1</version>
     <name>Visualpathit VProfile Webapp</name>
     <url>http://maven.apache.org</url>			
-    <argLine>-Xmx1024m -XX:MaxPermSize=256m</argLine>
     <properties>
         <spring.version>4.2.0.RELEASE</spring.version>
         <spring-security.version>4.0.2.RELEASE</spring-security.version>
